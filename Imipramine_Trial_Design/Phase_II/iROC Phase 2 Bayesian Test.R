@@ -257,7 +257,7 @@ mean_post_prob <-
 cat(
   "\n",
   "========================================\n",
-  "BAYESIAN N = 44 TEST\n",
+  "BAYESIAN N = 40 TEST\n",
   "========================================\n",
   "\n",
   "Contemporary N             :", total_n, "\n",
