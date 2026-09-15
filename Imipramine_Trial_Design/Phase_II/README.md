@@ -4,6 +4,12 @@ This directory is reserved for the Phase II statistical design and simulation wo
 
 It is intentionally separate from the Phase I CRM analysis so that the assumptions, methods, simulations and outputs for each phase can be documented and reproduced independently.
 
+## iROC Phase 2 Bayesian Test
+
+The R script "iROC Phase 2 Bayesian Test" contains simple code for a quick simulation based on internal in-vivo lab data priors to establish an anticipated sample size for a Bayesian design.
+This test does not consider the inclusion of additional prior data obtained from the dose finding phase. This will be detailed in the full simulation as below. For an indicative view on sample size
+feel free to run this code as results will be made available in seconds.
+
 ## Suggested structure
 
 ```text
