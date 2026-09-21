@@ -1,0 +1,12 @@
+Package: bayesPhase2Sim
+Type: Package
+Title: Bayesian Phase 2 Operating Characteristics Simulation
+Version: 0.1.0
+Authors@R: person("Trial", "Team", role = c("aut", "cre"), email = "replace@example.com")
+Description: Reproducible simulation utilities for a two-arm Bayesian Phase 2 design on a log10 outcome scale, incorporating two prior information sources, uncertainty in the contemporary standard deviation, and sample-size/effect sensitivity analyses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
